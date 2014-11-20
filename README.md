@@ -1,4 +1,3 @@
-why-google-is-evil
-==================
+# Dematerialising WordPress
 
-s5 presentation about why Google is evil and what you can do about it
+[S5](http://meyerweb.com/eric/tools/s5/) presentation of package management as it applies to WordPress.
